@@ -1,7 +1,9 @@
 OpenLDAP
 ====
 
-this is Openldap binding in GO language. I don't work any more with golang, so, please fork this project.
+this is Openldap binding in GO language.
+
+(This repo is forked from the obsolete (?) mqu/openldap repo. I'm not sure how much I'm going to maintain it. I'm really liking golang but I wonder why there is so little support for essential libraries like this. -FCY)
 
 
 Installation :
